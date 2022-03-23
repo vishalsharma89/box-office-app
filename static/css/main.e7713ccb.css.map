@@ -1,0 +1,1 @@
+{"version":3,"file":"static/css/main.e7713ccb.css","mappings":"AAAA,KAKE,wBAAyB,CAJzB,6BAAiC,CACjC,cAAe,CACf,QAAS,CACT,gBAEF","sources":["index.css"],"sourcesContent":["body {\n  font-family: \"Roboto\", sans-serif;\n  font-size: 18px;\n  margin: 0;\n  padding-top: 40px;\n  background-color: #d8e2dc;\n}\n"],"names":[],"sourceRoot":""}
